@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Harshdeep Singh (Harsh9761)
 
-![Profile Banner](https://user-images.githubusercontent.com/123456789/placeholder-banner.jpg)
+![Profile Banner](githubbanner.jpg)
 
 🎯 **Focused | Dedicated | Lifelong Learner**  
 🌐 **He/Him**  
